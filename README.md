@@ -6,8 +6,8 @@ Product Designer
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [enedahchiamaka@gmail.com](mailto:enedahchiamaka@gmail.com)
-* 🤝  I'm open to collaborating on Learning new things in Product Design
-* ⚡  I'm a planet who's learning how to code so I can create other planets
+* 🤝  I'm open to collaborating on Learning new things in Product Design.
+* ⚡  I'm a planet who's learning how to code so I can create other planets.
 
 <a href="https://www.twitter.com/lovehoneeyy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/lovehoneeyy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
