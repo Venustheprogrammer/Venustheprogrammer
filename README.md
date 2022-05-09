@@ -1,4 +1,4 @@
-i 👋 My name is Chiamaka Enedah
+Hi 👋 My name is Chiamaka Enedah
 ================================
 
 Product Designer
